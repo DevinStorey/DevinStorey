@@ -1,3 +1,3 @@
 ## Welcome to My Project
 
-<img src="images/Independent%20Project%20Proposal%20Brief.pdf">
+[Independent Project Proposal Brief.pdf](https://github.com/DevinStorey/DevinStorey/files/7146783/Independent.Project.Proposal.Brief.pdf)
